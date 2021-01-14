@@ -52,7 +52,7 @@ body{
 }
 .about-margin{
     padding-top: 40px;
-    height: 600px;
+    height: auto;
 }
 .navbar a{
     margin-left: 20px;
@@ -63,11 +63,15 @@ body{
     padding-left: 15px;
 }
 .about-hight{
-    height: 600px;
+    height: auto;
 }
 .contact{
     margin-top: 50px;
-    height: 600px;
+    height: auto;
+}
+footer p{
+  text-align: center;
+  
 }
 
 
